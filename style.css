@@ -1,0 +1,24 @@
+body{ 
+    background-color: #f7f7f7;
+
+
+}
+@media screen and (min-width: 700px) {
+    nav{ 
+    margin: 0px 120px 0px 120px;
+
+    }
+}
+
+nav{
+    height: 64px; 
+    background-color:#0c2525; 
+    display: flex; 
+    justify-content: center; 
+    border-radius: 3px;
+}
+.box{
+    
+    color:#0c2525;
+     font-size: 25px;
+}
